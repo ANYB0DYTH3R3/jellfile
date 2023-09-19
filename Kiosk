@@ -1,0 +1,3 @@
+resources:
+  - url: /hacsfiles/kiosk-mode/kiosk-mode.js
+    type: module
